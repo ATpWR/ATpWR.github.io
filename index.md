@@ -4,4 +4,4 @@ im Schneckenhaus. Website für Test- und Prüfungszwecke.
 * gschmeidig
 * hoaß
 * leger
-"I bin a Bauernlopp"
+> I bin a Bauernlopp
